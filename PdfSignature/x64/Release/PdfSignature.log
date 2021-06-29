@@ -1,0 +1,6 @@
+﻿  GenKey.cpp
+C:\Users\Admin\source\repos\PdfSignature\PdfSignature\GenKey.h(2,10): fatal error C1083: Cannot open include file: 'podofo/podofo.h': No such file or directory
+  PdfSignatureDlg.cpp
+C:\Users\Admin\source\repos\PdfSignature\PdfSignature\GenKey.h(2,10): fatal error C1083: Cannot open include file: 'podofo/podofo.h': No such file or directory
+  pdf_signing.cpp
+C:\Users\Admin\source\repos\PdfSignature\PdfSignature\GenKey.h(2,10): fatal error C1083: Cannot open include file: 'podofo/podofo.h': No such file or directory

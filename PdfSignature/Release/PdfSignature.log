@@ -1,0 +1,10 @@
+﻿  PdfSignatureDlg.cpp
+C:\Users\Admin\source\repos\PdfSignature\PdfSignature\PdfSignatureDlg.cpp(301,7): warning C4101: 'buf': unreferenced local variable
+C:\Users\Admin\source\repos\PdfSignature\PdfSignature\PdfSignatureDlg.cpp(315,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Admin\source\repos\PdfSignature\PdfSignature\PdfSignatureDlg.cpp(337,19): warning C4101: 'e': unreferenced local variable
+     Creating library C:\Users\Admin\source\repos\PdfSignature\Release\PdfSignature.lib and object C:\Users\Admin\source\repos\PdfSignature\Release\PdfSignature.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 737 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PdfSignature.vcxproj -> C:\Users\Admin\source\repos\PdfSignature\Release\PdfSignature.exe
